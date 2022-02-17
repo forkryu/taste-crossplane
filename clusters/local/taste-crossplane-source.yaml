@@ -8,5 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/ryuheechul/taste-crossplane
-
+  url: https://github.com/forkryu/taste-crossplane
